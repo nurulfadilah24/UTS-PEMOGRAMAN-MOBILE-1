@@ -23,7 +23,7 @@ Proyek ini dibagi menjadi **lima bagian utama**, disertai dengan file hasil desa
 
 ---
 
-### 🟢 1. Splash Screen Project
+### 🟢 1. Proyek Layar Percikan (Splash Screen)
 **File:** `splash screen.mp4`
 
 Menampilkan halaman awal aplikasi saat pertama kali dibuka.
@@ -31,12 +31,13 @@ Menampilkan halaman awal aplikasi saat pertama kali dibuka.
 **Fitur Splash Screen:**
 - Deteksi lokasi pengguna.  
 - Menampilkan **bendera/logo Pemda daerah pengguna**.  
-- Menyapa pengguna dengan teks **“Hello [Nama Daerah]”**.  
+- Menyapa pengguna dengan teks “Halo [Nama Daerah]”.  
 - Animasi sebelum menuju halaman login.
 
-🖼️ Klik gambar di bawah untuk memutar video:
+🖼️ Klik gambar di bawah untuk menonton video Splash Screen:
 
-[![Tonton Splash Screen](https://youtu.be/8DDH4IxDyZk?si=RkbH-T5Gme0Zikq9)]
+[![Tonton Splash Screen](https://img.youtube.com/vi/8DDH4IxDyZk/0.jpg)](https://youtu.be/8DDH4IxDyZk?si=RkbH-T5Gme0Zikq9)
+
  
 
 ---
